@@ -12,6 +12,10 @@
 
 ![星TAP拼图大师V3.5 界面展示](https://raw.githubusercontent.com/cscb603/Grid-Puzzle-Pro/main/assets/preview_ui.png)
 
+## 🎨 成品展示 (Sample Output)
+
+![星TAP拼图大师V3.5 成品展示](https://raw.githubusercontent.com/cscb603/Grid-Puzzle-Pro/main/assets/sample_output.jpg)
+
 ---
 
 ## ✨ 小白看这里：为什么它更好用？
