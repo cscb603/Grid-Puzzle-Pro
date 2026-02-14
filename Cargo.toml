@@ -1,0 +1,32 @@
+[package]
+name = "grid_puzzle"
+version = "3.5.0"
+authors = ["星TAP实验室 <cscb603@qq.com>"]
+edition.workspace = true
+
+[dependencies]
+core_lib = { workspace = true, features = ["ui"] }
+eframe = { workspace = true }
+egui = { workspace = true }
+image = "0.25"
+fast_image_resize = "4.1"
+regex = "1.10"
+sysinfo = { workspace = true }
+rayon = { workspace = true }
+anyhow.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+serde = { workspace = true }
+serde_json = { workspace = true }
+rfd = { workspace = true }
+imageproc = { workspace = true }
+rusttype = { workspace = true }
+rand = { workspace = true }
+chrono = { workspace = true }
+ab_glyph = { workspace = true }
+jpeg-encoder = { workspace = true }
+dirs = { workspace = true }
+
+[build-dependencies]
+embed-resource = "2.5"
+
